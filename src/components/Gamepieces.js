@@ -127,7 +127,7 @@ const Gamepieces = ({score,setScore,onGameOver}) => {
 
             if(snakehead.x===apple.x && snakehead.y===apple.y)
             {
-                setScore(score++)
+                setScore(prevScore => prevScore + 1)
 
                 setApple({
                     x:Math.floor((Math.random()*canvas.width)/snake_speed)*snake_speed,
