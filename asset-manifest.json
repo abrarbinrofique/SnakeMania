@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snakemania/static/css/main.bad2feca.css",
+    "main.js": "/snakemania/static/js/main.6791b19d.js",
+    "static/js/488.15705e7c.chunk.js": "/snakemania/static/js/488.15705e7c.chunk.js",
+    "index.html": "/snakemania/index.html",
+    "main.bad2feca.css.map": "/snakemania/static/css/main.bad2feca.css.map",
+    "main.6791b19d.js.map": "/snakemania/static/js/main.6791b19d.js.map",
+    "488.15705e7c.chunk.js.map": "/snakemania/static/js/488.15705e7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad2feca.css",
+    "static/js/main.6791b19d.js"
+  ]
+}
